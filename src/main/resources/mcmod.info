@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "voting_rating",
+    "name": "VotingRating",
+    "description": "Simple mod which add info-panel with voting rating for определенный project at ",
+    "version": "1.0",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "hohserg"
+    ],
+    "credits": "Powered by jsoup",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
